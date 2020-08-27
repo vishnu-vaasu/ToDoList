@@ -1,0 +1,6 @@
+framework module Pods_WindsETODOList_WindsETODOListUITests {
+  umbrella header "Pods-WindsETODOList-WindsETODOListUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
